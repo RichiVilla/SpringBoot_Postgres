@@ -1,0 +1,6 @@
+org\adaschool\datapostgres\controller\UserController.class
+org\adaschool\datapostgres\data\dto\UserDto.class
+org\adaschool\datapostgres\data\repository\UserRepository.class
+org\adaschool\datapostgres\exception\UserNotFoundException.class
+org\adaschool\datapostgres\data\entity\User.class
+org\adaschool\datapostgres\DemoApplication.class
